@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        ".python-version": true,
+        "pyproject.toml": true,
+        "orchestor.txt": true,
+        "uv.lock": true,
+        "README.md": true,
+        "**.pyc": true,
+    }
+}
